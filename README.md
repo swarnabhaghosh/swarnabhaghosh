@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarnabha Ghosh</h1>
-<h3 align="center">Looking Forward to Building Innovative Solutions with Code.</h3>
+<h3 align="center">Looking Forward to Build Innovative Solutions with Code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnabhaghosh&label=Profile%20views&color=0e75b6&style=flat" alt="swarnabhaghosh" /> </p>
 
