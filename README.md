@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **Python,Java, C, Data structures**
+- 💬 Ask me about **Python, Java, C, Data structures**
 
 - 📫 How to reach me **swarnabha983@gmail.com**
 
