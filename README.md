@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🌟 About Me<br><br>- 🔭 I’m currently working on **Machine Learning & AI Projects**<br>- 👯 Looking to collaborate on **AI/ML & Open Source Projects**<br>-  🌱 I’m currently learning **TensorFlow & Deep Learning**<br>- 💬 Ask me about **Python, Java, C, Data Structures, Data Analysis**<br>- ⚡ Fun fact **I love turning real-world problems into code solutions**
+### 🌟 About Me<br><br>- 🔭 I’m currently working on **Machine Learning & AI Projects**<br>- 👯 Looking to collaborate on **AI/ML & Open Source Projects**<br>-  🌱 I’m currently learning **TensorFlow & Deep Learning**<br>- 💬 Ask me about **Python, Java, C, Data Structures, Data Analysis**<br>- 
 
 
 ## 🌐 Socials:
