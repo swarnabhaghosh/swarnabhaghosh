@@ -1,22 +1,58 @@
 <h1 align="center">Hi 👋, I'm Swarnabha Ghosh</h1>
-<h3 align="center">Turning Ideas into Code and Challenges into Solutions. Always Learning, Building, and Innovating.</h3>
+<h3 align="center">🚀 Engineering Student | AI/ML Enthusiast | Turning Ideas into Scalable Solutions</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=swarnabhaghosh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🌱 I’m currently learning **TensorFlow**
-- 💬 Ask me about **Python, Java, C, Data structures, Data Analysis**
-- 📫 How to reach me **swarnabha983@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 👨‍💻 About Me
+- 🎓 CSE Student passionate about **AI, Machine Learning & Data Science**
+- 🌱 Currently learning **TensorFlow & Deep Learning**
+- 💡 Interested in building **real-world intelligent systems**
+- 💬 Ask me about **Python, Java, C, Data Structures, Data Analysis**
+- 📫 Reach me at **swarnabha983@gmail.com**
 
+---
+
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://twitter.com/swarnabha09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a><a href="https://linkedin.com/in/swarnabhaghosh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a><a href="https://kaggle.com/swarnabhaghosh9"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a><a href="https://instagram.com/swarnabha09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a><a href="https://www.hackerrank.com/swarnabhaghosh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a><a href="https://www.leetcode.com/swarnabhaghosh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a><a href="https://auth.geeksforgeeks.org/user/swarnab8lc1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a>
+<a href="https://twitter.com/swarnabha09"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://linkedin.com/in/swarnabhaghosh"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://kaggle.com/swarnabhaghosh9"><img src="https://skillicons.dev/icons?i=kaggle" height="40"/></a>
+<a href="https://instagram.com/swarnabha09"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://www.hackerrank.com/swarnabhaghosh"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
+<a href="https://www.leetcode.com/swarnabhaghosh"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
+### 🛠️ Tech Stack
 <p align="left">
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a><a href="https://flask.palletsprojects.com/"><img src="https://img.favpng.com/24/6/2/flask-python-web-framework-web-application-tutorial-png-favpng-Bhv4ME7Heb8X0q5D1yQA8DU1L.jpg" width="40" height="40"/></a><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a><a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a><a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a><a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a><a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a><a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,flask,docker,git,linux,mysql,sqlite,tensorflow,opencv,pandas,sklearn" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swarnabhaghosh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabhaghosh&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 What I'm Working On
+- 🤖 Machine Learning Projects (End-to-End Pipelines)
+- 🌾 Smart Agriculture System (Weather + Crop Recommendation + Market Insights)
+- 💬 AI Interviewer Chatbot
+
+---
+
+### ⚡ Fun Fact
+> I enjoy solving real-world problems with code and exploring new technologies every day.
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
