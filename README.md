@@ -1,10 +1,9 @@
 <h1 align="left">Hi 👋, I'm Swarnabha Ghosh</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=swarnabhaghosh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h3 align="center">Turning Ideas into Code and Challenges into Solutions. Always Learning, Building, and Innovating.</h3>
 
-<h3 align="left">An aspiring AI/ML Engineer and Data Science enthusiast</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnabhaghosh&label=Profile%20views&color=0e75b6&style=flat" alt="swarnabhaghosh" /> </p>
 
 <ul>
   <li>🔭 I’m currently working on <b>Machine Learning & AI Projects</b></li>
